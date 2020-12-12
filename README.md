@@ -1,4 +1,13 @@
-# Todo+
+# DON'T USE THIS !!!!!!
+
+This fork is just for learnung Github
+
+Original: fabiospampinato/vscode-todo-plus
+
+---
+
+
+#### Todo+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/fabiospampinato/vscode-todo-plus/master/resources/logo/logo.png" width="128" alt="Logo">
